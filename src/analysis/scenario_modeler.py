@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from src.data_loader import load_chargers, load_districts
+from src.data_loader import load_districts
 from src.models.data_models import ScenarioResult
 
 AVG_DC_FAST_COST = 50000
