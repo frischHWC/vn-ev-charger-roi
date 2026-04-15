@@ -1,0 +1,16 @@
+district_id,district_name,province,population,area_km2,avg_property_value_eur,ev_adoption_rate_pct,tourism_visitors_annual,air_quality_index,healthcare_cost_per_capita_eur
+D001,Ba Dinh,Hanoi,236500,9.22,185000,4.2,1250000,78,420
+D002,Hoan Kiem,Hanoi,155800,5.29,220000,5.1,2800000,72,480
+D003,Cau Giay,Hanoi,285000,12.04,165000,6.3,450000,82,390
+D004,District 1,Ho Chi Minh City,198000,7.73,250000,5.8,3200000,68,510
+D005,District 7,Ho Chi Minh City,310000,35.69,195000,7.2,680000,75,430
+D006,Binh Thanh,Ho Chi Minh City,485000,20.76,145000,4.5,520000,80,400
+D007,Hai Chau,Da Nang,210000,23.28,130000,3.8,1800000,65,350
+D008,Son Tra,Da Nang,158000,59.32,110000,3.2,2100000,60,320
+D009,Ngo Quyen,Hai Phong,195000,10.42,105000,2.9,380000,85,370
+D010,Le Chan,Hai Phong,225000,12.53,95000,2.5,290000,88,360
+D011,Ninh Kieu,Can Tho,255000,29.22,85000,2.1,420000,70,310
+D012,Thanh Khe,Da Nang,190000,9.47,120000,3.5,950000,67,340
+D013,Thu Duc,Ho Chi Minh City,520000,49.79,155000,6.8,350000,78,410
+D014,Long Bien,Hanoi,305000,60.38,140000,5.5,280000,80,380
+D015,Lien Chieu,Da Nang,175000,79.13,100000,2.8,620000,63,330

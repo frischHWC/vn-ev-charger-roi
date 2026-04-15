@@ -1,0 +1,9 @@
+[project]
+name = "vn-ev-charger-roi"
+version = "1.0.0"
+description = "EV Charger ROI Analysis for Vietnamese Municipalities - MCP Server & Data"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+ev-charger-mcp = "src.mcp_server:main"

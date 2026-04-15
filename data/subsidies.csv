@@ -1,0 +1,16 @@
+subsidy_id,district_id,program_name,amount_eur,year_granted,charger_ids,payback_period_years,status,funding_source
+SUB001,D001,Green Hanoi Initiative,18000,2022,"CH001,CH002",3.2,active,Municipal Budget
+SUB002,D002,Heritage District EV,21500,2021,"CH003,CH004",2.8,active,National Green Fund
+SUB003,D003,Tech Park Charging,27500,2023,"CH005,CH006,CH025",3.5,active,PPP Partnership
+SUB004,D004,Saigon Smart City,82000,2021,"CH007,CH008,CH024",2.1,active,World Bank Grant
+SUB005,D005,PMH Green Living,19200,2022,"CH009,CH010",3.0,active,Municipal Budget
+SUB006,D006,Binh Thanh Community,2800,2022,CH011,4.5,active,District Budget
+SUB007,D007,Da Nang Tourism EV,42000,2022,"CH012,CH013",2.5,active,Tourism Development Fund
+SUB008,D008,Beach Access Charging,15000,2022,CH014,2.8,active,Tourism Development Fund
+SUB009,D009,Hai Phong Port Green,2500,2022,CH015,5.2,active,Municipal Budget
+SUB010,D010,Le Chan Pilot,2200,2023,CH016,5.8,active,District Budget
+SUB011,D011,Mekong Delta EV,12000,2022,CH017,4.0,active,Regional Development Fund
+SUB012,D012,Thanh Khe Mobility,2800,2023,CH018,4.2,active,District Budget
+SUB013,D013,Thu Duc Innovation Hub,44000,2022,"CH019,CH020",2.3,active,National Innovation Fund
+SUB014,D014,Long Bien Development,17000,2023,"CH021,CH022",3.1,active,Municipal Budget
+SUB015,D015,Lien Chieu Industrial,13000,2022,CH023,3.8,active,Industrial Zone Fund
